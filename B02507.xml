@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The downfall of pride. Riband-cod-pieces, black-patches, and whatsoever is antick, apish, fantastic, and dishonourable to a civil government. To the tune of, Bragandry.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02507</idno>
+            <idno type="STC">Wing C7277CA</idno>
+            <idno type="STC">ESTC R174387</idno>
+            <idno type="EEBO-CITATION">52212004</idno>
+            <idno type="OCLC">ocm 52212004</idno>
+            <idno type="VID">175626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175626)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2743:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The downfall of pride. Riband-cod-pieces, black-patches, and whatsoever is antick, apish, fantastic, and dishonourable to a civil government. To the tune of, Bragandry.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove on Snow-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Signed at end: H.C.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fashion --  England --  17th century --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175626:1"/>
+            <pb facs="tcp:175626:2" rendition="simple:additions"/>
+            <head>The Downfall of Pride. Riband-Cod-pieſes, Black-patches, and whatſoever is Antick, apiſh, fantaſtick, and diſhonourable to a civil Go<g ref="char:EOLhyphen"/>vernment.</head>
+            <opener>To the Tune of, <hi>Bragandary.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>A</hi> Ballad, a Ballad, lets make in haſt,</l>
+               <l>a Ballad lets make with ſpéed,</l>
+               <l>Let every Poet make a verſe,</l>
+               <l>for there never was more néed</l>
+               <l>Men and women are out of their wits,</l>
+               <l>Poſſeſſed with ſtrange frantick fits,</l>
+               <l>
+                  <hi>O people, monſterous people,</hi>
+               </l>
+               <l>
+                  <hi>What do you mean to do?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some carry about them every day,</l>
+               <l>a <hi>Habberdaſhers</hi> ſhop,</l>
+               <l>Like Puppets in a Puppet-Play,</l>
+               <l>about the ſtréets they hop;</l>
+               <l>Iuſt againſt the place of luſt,</l>
+               <l>With gawdy Ribbons they are truſt,</l>
+               <l>
+                  <hi>O men, monſterous men,</hi>
+               </l>
+               <l>
+                  <hi>What do you mean to do?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some women ſometimes uſe to wear,</l>
+               <l>black Patches on their face,</l>
+               <l>What ever of themſelves they think,</l>
+               <l>'tis but to their diſgrace:</l>
+               <l>They make themſelves with thoſe fond toyes,</l>
+               <l>A laughing ſtock to girles and boyes,</l>
+               <l>
+                  <hi>O women, monſterous women</hi>
+               </l>
+               <l>
+                  <hi>What do you mean to do?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The civill Souldiers laugh at ye,</l>
+               <l>to ſée you ſo diſguiſ'd,</l>
+               <l>And I do hope to live to ſée,</l>
+               <l>Pride not ſo highly priz'd,</l>
+               <l>Coſtly Baubles you have ſtore,</l>
+               <l>But never a penny for the poore,</l>
+               <l>
+                  <hi>O people, monſterous people</hi>
+               </l>
+               <l>
+                  <hi>what do you mean to do?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If that the faſhion ſhould be now</l>
+               <l>great Garlands for to wear</l>
+               <l>As <hi>Pariſ-garden</hi> Buls have done,</l>
+               <l>our people would not forbear:</l>
+               <l>they would wear them about their necks</l>
+               <l>To pride they give ſuch great reſpects,</l>
+               <l>
+                  <hi>O people, monſterous people</hi>
+               </l>
+               <l>
+                  <hi>what do you mean to do?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Or if the faſhion ſhould be now,</l>
+               <l>As I may well ſuppoſe,</l>
+               <l>That points and Ribbons ſhould be worn</l>
+               <l>in men and womens noſe,</l>
+               <l>Pride would quickly have it ſo,</l>
+               <l>That they like Anticks thus might go,</l>
+               <l>
+                  <hi>O people, monſterous people</hi>
+               </l>
+               <l>
+                  <hi>what do you mean to do.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:175626:2"/>
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>OR if the faſhion ſhould be now,</l>
+                  <l>on ſhooes to wear great beads,</l>
+                  <l>Or if ſome people ſhould but wear</l>
+                  <l>hand-baskets on their heads:</l>
+                  <l>The reſt wil follow them I know</l>
+                  <l>that they like Coxcombs thus might go</l>
+                  <l>
+                     <hi>O people, monſterous people</hi>
+                  </l>
+                  <l>
+                     <hi>what do you mean to do?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Or if the faſhion ſhould be thus</l>
+                  <l>to wear the ears of Pigs,</l>
+                  <l>In womens breaſts or on their heads</l>
+                  <l>As men wear Perrywigs:</l>
+                  <l>Pride wil give that faſhion place,</l>
+                  <l>The Pigs would go to wrack a pace,</l>
+                  <l>
+                     <hi>O people, monſterous people</hi>
+                  </l>
+                  <l>
+                     <hi>what do you mean to do?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Curled locks are daily ſold</l>
+                  <l>to women for to wear,</l>
+                  <l>An ugly ſight for to behold.</l>
+                  <l>'to ſée them wear falſe hair,</l>
+                  <l>Women and men fantaſtick Elves,</l>
+                  <l>Know not what to wear themſelves,</l>
+                  <l>
+                     <hi>O people, &amp;c,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Men with white Powder, powder their hair</l>
+                  <l>they look like Millers right</l>
+                  <l>What coulor ſoever their clothes are</l>
+                  <l>the Powder makes them white:</l>
+                  <l>Boots they wear with a picket-toe,</l>
+                  <l>Stradling through the ſtréets they go,</l>
+                  <l>
+                     <hi>O men, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Our Anceſtors were civill men</l>
+                  <l>As we may read and hear;</l>
+                  <l>Though they were men of good account,</l>
+                  <l>would leather ſhoo-ſtrings wear,</l>
+                  <l>Their hands unto their ſhirts were ſown</l>
+                  <l>But now we are more gallant grown,</l>
+                  <l>
+                     <hi>O people, monſterous people</hi>
+                  </l>
+                  <l>
+                     <hi>what do you mean to do.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Leather-Girdle about their waſte,</l>
+                  <l>as plain as plain may be,</l>
+                  <l>An honeſt heart within their breſt,</l>
+                  <l>from guile and falſhood frée?</l>
+                  <l>No Bils nor Bonds betwixt them then,</l>
+                  <l>But now we live more like Devils then men</l>
+                  <l>
+                     <hi>O people, monſterous people,</hi>
+                  </l>
+                  <l>
+                     <hi>what do you mean to do?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What I have ſaid good people all</l>
+                  <l>is mearly out of love,</l>
+                  <l>I do deſire that great and ſmal</l>
+                  <l>may fear the Lord above:</l>
+                  <l>That cruelty and pride may ceaſe,</l>
+                  <l>And that we may injoy true peace.</l>
+                  <l>
+                     <hi>That Pride may be o'rethrown,</hi>
+                  </l>
+                  <l>
+                     <hi>And charity take place.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Francis Grove</hi> on Snow-hill.</p>
+            <p>H.C.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
